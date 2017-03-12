@@ -1,0 +1,31 @@
+* {
+    font-family: 'Lobster', cursive !important;
+}
+
+.mdl-layout {
+    background-image: url(../img/background-image.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+.mdl-layout__drawer {
+    background-color: darkred;
+}
+
+.white-font {
+    color: white !important;
+}
+
+.countdown {
+    text-align: center;
+    padding-top: 250px; 
+}
+
+.countdown h3 {
+    padding-top: 150px;
+}
+
+.large-text {
+        font-size: 400%;
+        line-height: 1em;
+}
